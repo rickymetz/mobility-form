@@ -1,0 +1,4 @@
+input[type="email"] {
+  display: block;
+  max-width: 90%;
+  margin-top: 10px; }
